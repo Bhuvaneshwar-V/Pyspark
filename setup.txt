@@ -1,0 +1,3 @@
+https://medium.com/@hello-dinesh/setup-apache-spark-environment-on-windows-11-step-by-step-guide-74e5aa1c9f65
+
+https://medium.com/@ARishi/setup-pyspark-on-windows-11-388f54ea5668
